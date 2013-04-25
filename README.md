@@ -1,7 +1,14 @@
 iDiary
 ======
 
-Personal Organizer
+Personal Digital Organizer
+
+Contains 
+  -Notes
+  -Memo
+  -Contacts
+  -Stock Market Game
+  -Password Protection
 
 This is a depreceated C++ Application, which was done for my school project.
 We had to use Turbo C++, and so here it is, truely non-portable code, due to extensive use of conio.h.
