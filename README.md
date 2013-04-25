@@ -4,11 +4,11 @@ iDiary
 Personal Digital Organizer
 
 Contains 
-  -Notes\n
-  -Memo\n
-  -Contacts\n
-  -Stock Market Game\n
-  -Password Protection\n
+  Notes,
+  Memo,
+  Contacts,
+  Stock Market Simulator Game,
+  Password Protection
 
 This is a depreceated C++ Application, which was done for my school project.
 We had to use Turbo C++, and so here it is, truely non-portable code, due to extensive use of conio.h.
